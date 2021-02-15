@@ -1,4 +1,4 @@
-# H34rthStone - 2. Objective Programming Project
+# StarCards - 2-nd Project for Objective Programming
 **Paweł Kruczkiewicz, 3-rd semester, sophmore year, 2020/21**<br>
 Second project for Objective Programming Course
 
