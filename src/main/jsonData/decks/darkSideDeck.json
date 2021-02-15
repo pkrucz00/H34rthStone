@@ -1,0 +1,58 @@
+[{
+  "name": "Battle droidon",
+  "HP": 1,
+  "AP": 2,
+  "force": 1
+  },
+  {"name":  "Dart Maul",
+  "HP": 5,
+  "AP": 7,
+  "force": 5},
+  {"name": "Lord Dookoo",
+   "HP": 6,
+   "AP": 8,
+   "force": 6},
+  {"name": "Battle droidon",
+  "HP": 1,
+  "AP": 2,
+  "force": 1
+  },
+  {"name": "Battle droidon",
+    "HP": 1,
+    "AP": 2,
+    "force": 1
+  },
+  {"name": "Battle droidon",
+    "HP": 1,
+    "AP": 2,
+    "force": 1
+  },
+  {"name": "Battle droidon",
+    "HP": 1,
+    "AP": 2,
+    "force": 1
+  },
+  {"name": "Battle droidon",
+    "HP": 1,
+    "AP": 2,
+    "force": 1
+  },
+  {"name":  "Dart Maul",
+    "HP": 5,
+    "AP": 7,
+    "force": 5},
+  {"name": "Lord Dookoo",
+    "HP": 6,
+    "AP": 8,
+    "force": 6},
+  {"name": "Battle droidon",
+    "HP": 1,
+    "AP": 2,
+    "force": 1
+  },
+  {"name": "Dark Vader",
+    "HP": 9,
+    "AP": 13,
+    "force": 10
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "INIT_HP": 30,
+  "INIT_AP": 3,
+  "INIT_FORCE": 1,
+  "MAX_CARDS_ON_BOARD": 7,
+  "MAX_CARDS_IN_HAND": 10,
+  "MAX_FORCE": 10
+}

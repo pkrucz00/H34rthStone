@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Mace Wandu",
+    "HP": 5,
+    "AP": 6,
+    "force": 3
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {
+    "name": "Chewbakka",
+    "HP": 4,
+    "AP": 7,
+    "force": 5
+  },
+  {
+    "name": "Ham Solon",
+    "HP": 7,
+    "AP": 5,
+    "force": 4
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {
+    "name": "Chewbakka",
+    "HP": 4,
+    "AP": 7,
+    "force": 5
+  },
+  {
+    "name": "Ham Solon",
+    "HP": 7,
+    "AP": 5,
+    "force": 4
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {
+    "name": "Ham Solon",
+    "HP": 7,
+    "AP": 5,
+    "force": 4
+  },
+  {
+    "name": "Bar Bar Jinks",
+    "HP": 3,
+    "AP": 1,
+    "force": 1
+  },
+  {"name": "Luki Skywalker",
+   "HP": 12,
+   "AP": 8,
+   "force":  9}
+]
